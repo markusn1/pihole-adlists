@@ -1,8 +1,8 @@
 # Meris Botnet list, as per https://blog.mikrotik.com/security/meris-botnet.html
 # Created 29.09.2021
-eeongous.com
-leappoach.info
-mythtime.xyz
+*.eeongous.com
+*.leappoach.info
+*.mythtime.xyz
 1abcnews.xyz
 1awesome.net
 7standby.com
