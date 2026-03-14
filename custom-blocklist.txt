@@ -10,3 +10,4 @@ trace.svc.ui.com
 ping.ui.com				
 hostname.bind				
 id.server	
+use-application-dns.net
