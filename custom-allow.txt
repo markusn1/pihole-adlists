@@ -95,7 +95,6 @@ keystone.mwbsys.com
 dl.dropbox.com
 api.ipify.org
 youtube.de
-use-application-dns.net
 (^|\.)braze\.com$
 (\.|^)chanoa\.de$
 a1737.b.akamai.net
