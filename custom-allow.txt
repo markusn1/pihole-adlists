@@ -447,3 +447,4 @@ aax-eu.amazon.de
 connectlp.keysight.com
 bunkr.black
 (\.|^)aida\.de$
+data.email.aida.de
