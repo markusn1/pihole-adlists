@@ -446,3 +446,4 @@ at.vodafone.de
 aax-eu.amazon.de
 connectlp.keysight.com
 bunkr.black
+(\.|^)aida\.de$
