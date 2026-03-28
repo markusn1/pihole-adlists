@@ -448,3 +448,4 @@
 ||bunkr.black^
 ||(^|\.)aida\.de$^
 ||data.email.aida.de^
+||link.me^
